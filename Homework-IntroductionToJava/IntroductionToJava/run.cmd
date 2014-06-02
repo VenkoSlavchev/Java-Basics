@@ -1,0 +1,1 @@
+java -classpath SortArrayOfStrings.jar SortArrayOfStrings
